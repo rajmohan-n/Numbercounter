@@ -1,0 +1,44 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  color: rgb(6, 108, 232);
+  background-color: rgb(234, 235, 234);
+}
+
+#countlabel{
+  font-size: 4.5em;
+
+  
+  
+}
+
+.labelcontainer{
+  background-color: rgb(253, 253, 253);
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  border-radius: 50px;
+  border-style: hidden;
+
+}
+button{
+  background-color: rgb(0, 100, 250);
+  font-weight: bold;
+  color: white;
+  border-style: none;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 35px;
+  
+}
+
+button:hover{
+  background-color: rgb(3, 61, 147);
+}
+
+button:active{
+  background-color: rgb(119, 118, 126);
+}
